@@ -4,13 +4,13 @@
     align-items: center;
     height: 100vh;
     background-color: #1A1A1D;
+    background: url("forestBackground.jpg");
   }
   
   .container {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    
     background: url("background.png");
     border-radius: 8px;
     height: 70%;
